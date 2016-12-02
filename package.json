@@ -1,0 +1,22 @@
+{
+  "name": "pt",
+  "version": "1.0.0",
+  "description": "an demo for component pt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guangguang1/pt.git"
+  },
+  "keywords": [
+    "pt123"
+  ],
+  "author": "LHG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guangguang1/pt/issues"
+  },
+  "homepage": "https://github.com/guangguang1/pt#readme"
+}
